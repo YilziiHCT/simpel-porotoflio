@@ -215,7 +215,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ## Contact
 
-- Email: yilzi@example.com
+- Email: yilzi@owner.com
 - GitHub: [@yilzi](https://github.com/yilzi)
 - Twitter: [@yilzi](https://twitter.com/yilzi)
 
